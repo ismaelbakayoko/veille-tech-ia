@@ -1,0 +1,82 @@
+# =============================================================
+# Catégories de veille
+# =============================================================
+# Pour AJOUTER une catégorie : copier un bloc, changer l'id, le titre,
+# la section et les requêtes. Rien d'autre à modifier dans le code.
+#
+# section : tech | ia | claude   (rubrique du rapport où elle apparaît)
+# requetes : recherches web lancées à chaque exécution (courtes, 2-6 mots)
+# mots_cles : aident à classer une actu dans la bonne catégorie
+
+categories:
+  - id: web
+    titre: Développement Web
+    section: tech
+    requetes: ["React release", "Next.js release", "Node.js release"]
+    mots_cles: [react, next.js, nextjs, node.js, nodejs, vercel, vite, typescript]
+
+  - id: mobile
+    titre: Développement Mobile
+    section: tech
+    requetes: ["Flutter release", "React Native release"]
+    mots_cles: [flutter, dart, react native, expo, android, ios, swift, kotlin]
+
+  - id: backend
+    titre: Backend
+    section: tech
+    requetes: ["Spring Boot release", "Java JDK news", "Python release", "Express.js news"]
+    mots_cles: [java, jdk, spring, spring boot, python, express, django, fastapi]
+
+  - id: bdd
+    titre: Bases de données
+    section: tech
+    requetes: ["PostgreSQL news", "Supabase announcement", "MongoDB announcement"]
+    mots_cles: [postgresql, postgres, supabase, mongodb, sql, redis, database]
+
+  - id: cloud-devops-secu
+    titre: Cloud, DevOps & Cybersécurité
+    section: tech
+    requetes: ["AWS announcement", "Kubernetes news", "critical vulnerability developers", "GitHub changelog"]
+    mots_cles: [aws, azure, gcp, cloud, kubernetes, docker, devops, cve, vulnérabilité, security, faille]
+
+  - id: big-tech
+    titre: Grandes entreprises tech
+    section: tech
+    requetes: ["Microsoft announcement developers", "Apple developers news", "Meta announcement", "NVIDIA announcement"]
+    mots_cles: [microsoft, apple, meta, amazon, nvidia, google]
+
+  - id: openai
+    titre: ChatGPT & OpenAI
+    section: ia
+    requetes: ["OpenAI announcement", "ChatGPT new feature"]
+    mots_cles: [openai, chatgpt, gpt, codex, sora]
+
+  - id: google-ai
+    titre: Gemini & Google DeepMind
+    section: ia
+    requetes: ["Gemini announcement", "Google DeepMind news"]
+    mots_cles: [gemini, deepmind, google ai, gemma]
+
+  - id: llm
+    titre: Nouveaux modèles de langage
+    section: ia
+    requetes: ["new LLM release", "Hugging Face new model", "open source LLM release"]
+    mots_cles: [llm, model, modèle, open source, hugging face, llama, mistral, qwen, deepseek]
+
+  - id: agents
+    titre: Agents IA & multi-agents
+    section: ia
+    requetes: ["AI agents framework release", "multi-agent AI news"]
+    mots_cles: [agent, agents, multi-agent, agentic, autonome]
+
+  - id: outils-dev-ia
+    titre: Outils IA pour développeurs, API & MCP
+    section: ia
+    requetes: ["AI coding tool release", "Model Context Protocol news", "AI API new feature"]
+    mots_cles: [copilot, cursor, mcp, model context protocol, api, sdk, coding assistant]
+
+  - id: claude
+    titre: Claude, Claude Code & écosystème Anthropic
+    section: claude
+    requetes: ["Anthropic announcement", "Claude Code new feature", "Claude Code changelog"]
+    mots_cles: [anthropic, claude, claude code, mcp, skills, agent sdk]

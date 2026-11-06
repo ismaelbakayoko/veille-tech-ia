@@ -1,0 +1,82 @@
+# =============================================================
+# Sources reconnues, par niveau de confiance
+# =============================================================
+# niveau 1 : source officielle (à privilégier, citée en priorité)
+# niveau 2 : presse tech reconnue
+# niveau 3 : tout autre domaine -> accepté seulement si la page a été
+#            ouverte et vérifiée, et signalé dans les logs.
+#
+# pages_a_consulter : pages lues directement à chaque exécution
+# (blogs / changelogs officiels), en plus des recherches web.
+
+niveau_1:
+  - anthropic.com
+  - claude.com
+  - docs.claude.com
+  - support.claude.com
+  - openai.com
+  - blog.google
+  - deepmind.google
+  - developers.googleblog.com
+  - ai.google.dev
+  - blogs.microsoft.com
+  - devblogs.microsoft.com
+  - azure.microsoft.com
+  - about.fb.com
+  - ai.meta.com
+  - github.blog
+  - github.com
+  - huggingface.co
+  - nvidia.com
+  - developer.nvidia.com
+  - blogs.nvidia.com
+  - aws.amazon.com
+  - cloud.google.com
+  - developer.apple.com
+  - react.dev
+  - nextjs.org
+  - vercel.com
+  - nodejs.org
+  - flutter.dev
+  - medium.com/flutter
+  - dart.dev
+  - reactnative.dev
+  - expo.dev
+  - spring.io
+  - openjdk.org
+  - oracle.com
+  - python.org
+  - expressjs.com
+  - postgresql.org
+  - supabase.com
+  - mongodb.com
+  - kubernetes.io
+  - docker.com
+  - modelcontextprotocol.io
+  - mistral.ai
+  - cisa.gov
+
+niveau_2:
+  - techcrunch.com
+  - theverge.com
+  - arstechnica.com
+  - infoq.com
+  - thenewstack.io
+  - venturebeat.com
+  - wired.com
+  - zdnet.com
+  - theregister.com
+  - bleepingcomputer.com
+  - developer-tech.com
+  - lemondeinformatique.fr
+  - 01net.com
+  - siecledigital.fr
+  - usine-digitale.fr
+
+pages_a_consulter:
+  - https://www.anthropic.com/news
+  - https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md
+  - https://openai.com/news/
+  - https://blog.google/technology/ai/
+  - https://github.blog/changelog/
+  - https://huggingface.co/blog

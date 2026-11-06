@@ -1,0 +1,134 @@
+# 📰 Veille Tech & IA — {{ jour }}
+
+> Période couverte : {{ periode }} · {{ nb_actus }} actualité(s) vérifiée(s) · Généré le {{ genere_le }}
+{% if a.note %}
+>
+> ℹ️ {{ a.note }}
+{% endif %}
+
+---
+
+## A. Résumé exécutif
+
+{% for point in a.resume_executif %}
+{{ loop.index }}. {{ point }}
+{% endfor %}
+
+---
+
+## B. Actualité Tech
+
+{% for n in a.tech %}
+### {{ loop.index }}. {{ n.titre }}
+
+{{ n.resume }}
+
+- **Date de publication :** {{ n.date_publication | date_fr }}
+- **Source :** [{{ n.source }}]({{ n.url }})
+- **Pourquoi c'est important pour un développeur :** {{ n.importance_dev }}
+
+{% else %}
+_Aucune actualité tech vérifiée sur la période._
+
+{% endfor %}
+---
+
+## C. Actualité IA
+
+{% for n in a.ia %}
+### {{ loop.index }}. {{ n.titre }}
+
+- **Entreprise / projet :** {{ n.entreprise }}
+- **Fonctionnalités et évolutions :** {{ n.fonctionnalites }}
+- **Applications concrètes :** {{ n.applications }}
+- **Date de publication :** {{ n.date_publication | date_fr }}
+- **Source :** [{{ n.source }}]({{ n.url }})
+
+{% else %}
+_Aucune actualité IA vérifiée sur la période._
+
+{% endfor %}
+---
+
+## D. Focus Claude Code
+
+{% set cc = a.claude_code %}
+### 🆕 Nouvelles fonctionnalités et actualités Anthropic
+
+{% for n in cc.nouveautes %}
+- **{{ n.titre }}** ({{ n.date_publication | date_fr }}) — {{ n.resume }} [{{ n.source }}]({{ n.url }})
+{% else %}
+- _Pas d'annonce Claude / Claude Code vérifiée sur les dernières 24 h._
+{% endfor %}
+
+{% if cc.bonnes_pratiques %}
+### 🛠️ Technique et bonne pratique
+
+{{ cc.bonnes_pratiques }}
+
+{% endif %}
+{% if cc.outils_integrations %}
+### 🔌 Outils et intégrations
+
+{{ cc.outils_integrations }}
+
+{% endif %}
+{% if cc.exemple %}
+### 💡 Exemple d'utilisation
+
+{{ cc.exemple }}
+
+{% endif %}
+{% if cc.ecosysteme %}
+### 🌐 Écosystème Anthropic
+
+{{ cc.ecosysteme }}
+
+{% endif %}
+{% if cc.liens %}
+**Pour aller plus loin :** {% for l in cc.liens %}[{{ l.titre }}]({{ l.url }}){{ " · " if not loop.last }}{% endfor %}
+
+
+{% endif %}
+---
+
+## E. Ce que je dois retenir
+
+{% for point in a.a_retenir %}
+- ✅ {{ point }}
+{% endfor %}
+
+---
+
+## F. Outil à découvrir : {{ a.outil.nom }}
+
+{{ a.outil.utilite }}
+{% if a.outil.pourquoi %}
+
+**Pourquoi l'essayer :** {{ a.outil.pourquoi }}
+{% endif %}
+
+🔗 Lien officiel : [{{ a.outil.lien }}]({{ a.outil.lien }})
+
+---
+
+## G. Le défi technique du jour : {{ a.defi.titre }}
+
+{% if a.defi.niveau or a.defi.duree or a.defi.technologies %}
+{% if a.defi.niveau %}**Niveau :** {{ a.defi.niveau }}{% endif %}{% if a.defi.duree %} · **Durée :** {{ a.defi.duree }}{% endif %}{% if a.defi.technologies %} · **Technologies :** {{ a.defi.technologies }}{% endif %}
+
+
+{% endif %}
+{{ a.defi.enonce }}
+{% if a.defi.indices %}
+
+**Indices :**
+
+{% for i in a.defi.indices %}
+- {{ i }}
+{% endfor %}
+{% endif %}
+
+---
+
+_Rapport généré automatiquement par veille-tech-ia. Chaque actualité a été vérifiée sur sa source ; aucune information n'est inventée. Les liens renvoient vers les sources originales._

@@ -1,0 +1,28 @@
+# =============================================================
+# Paramètres généraux de la veille
+# =============================================================
+# L'HEURE D'EXÉCUTION n'est pas ici : elle est définie dans la tâche
+# planifiée Claude (cloud). Voir README.md > « Modifier l'heure ».
+
+langue: fr
+fuseau_horaire: Africa/Abidjan
+
+# Période couverte par la veille (en heures, comptée depuis l'exécution)
+fenetre_heures: 24
+
+# Nombre d'actualités retenues au total (Tech + IA + Focus Claude Code).
+# Le minimum est un objectif, jamais une obligation : une journée calme
+# donne un rapport plus court, sans remplissage.
+nb_actus_min: 5
+nb_actus_max: 10
+
+# Similarité de titre (0-1) au-delà de laquelle deux actus sont des doublons
+seuil_doublon_titre: 0.85
+
+# Durée de conservation de la mémoire anti-doublons (jours)
+historique_jours: 90
+
+dossiers:
+  rapports: reports
+  donnees: data
+  logs: logs

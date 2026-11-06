@@ -1,0 +1,19 @@
+2026-11-06 09:29:39 | INFO    | veille.verify | Période de veille : 2026-11-05T09:29+00:00 -> 2026-11-06T09:29+00:00
+2026-11-06 09:29:39 | INFO    | veille.verify | Rejeté : Cat Wu, responsable produit de Claude Code, rejoint OpenAI — hors période (2026-11-05T02:30:00Z)
+2026-11-06 09:29:39 | INFO    | veille.verify | Rejeté : Postman Desktop a installé des plugins dans Claude Code et Codex sans consenteme — hors période (2026-10-25)
+2026-11-06 09:29:39 | INFO    | veille.verify | Rejeté : Anthropic publie FlashProve, prototype de preuve d'inférence — hors période (2026-11-02)
+2026-11-06 09:29:39 | INFO    | veille.verify | Rejeté : Google investirait 17 milliards de dollars dans un datacenter IA au Wyoming — page non ouverte / date non confirmée sur la source
+2026-11-06 09:29:39 | WARNING | veille.verify | Source hors liste reconnue (à surveiller) : techstartups.com
+2026-11-06 09:29:39 | WARNING | veille.verify | Source hors liste reconnue (à surveiller) : tokenpost.com
+2026-11-06 09:29:39 | WARNING | veille.verify | Source hors liste reconnue (à surveiller) : theneuron.ai
+2026-11-06 09:29:39 | INFO    | veille.verify | Vérification : 5 retenues, 4 rejetées
+2026-11-06 09:30:22 | INFO    | veille.report | Rapport écrit : rapport-2026-11-06.md (5 actus, historique 5, purgé 0)
+2026-11-06 09:31:01 | WARNING | veille.report | rapport-2026-11-06.md existe déjà : remplacé par la nouvelle version
+2026-11-06 09:31:01 | INFO    | veille.report | Rapport écrit : rapport-2026-11-06.md (5 actus, historique 5, purgé 0)
+2026-11-06 09:31:01 | INFO    | veille.report | Version e-mail écrite : email.html
+2026-11-06 09:31:08 | WARNING | veille.report | rapport-2026-11-06.md existe déjà : remplacé par la nouvelle version
+2026-11-06 09:31:08 | INFO    | veille.report | Rapport écrit : rapport-2026-11-06.md (5 actus, historique 5, purgé 0)
+2026-11-06 09:31:08 | INFO    | veille.report | Version e-mail écrite : email.html
+2026-11-06 09:31:17 | WARNING | veille.report | rapport-2026-11-06.md existe déjà : remplacé par la nouvelle version
+2026-11-06 09:31:17 | INFO    | veille.report | Rapport écrit : rapport-2026-11-06.md (5 actus, historique 5, purgé 0)
+2026-11-06 09:31:17 | INFO    | veille.report | Version e-mail écrite : email.html

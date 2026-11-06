@@ -1,0 +1,16 @@
+# Secrets
+.env
+*.key
+
+# Données de travail du jour (régénérées à chaque exécution)
+data/candidats.json
+data/retenus.json
+data/rejets.json
+data/analyse.json
+data/email.html
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
