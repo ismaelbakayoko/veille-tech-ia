@@ -10,3 +10,4 @@
 2026-11-07 06:55:23 | WARNING | veille.verify | Source hors liste reconnue (à surveiller) : unite.ai
 2026-11-07 06:55:23 | INFO    | veille.verify | Vérification : 6 retenues, 6 rejetées
 2026-11-07 06:56:13 | INFO    | veille.report | Rapport écrit : rapport-2026-11-07.md (6 actus, historique 11, purgé 0)
+2026-11-07 06:56:20 | INFO    | veille.report | Version e-mail écrite : email.html
