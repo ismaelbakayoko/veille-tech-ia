@@ -1,4 +1,20 @@
 {
+  "https://anthropic.com/research/components-of-agent-memory": {
+    "date": "2026-11-07",
+    "titre": "Anthropic publie « The components of agent memory » : notes, dreaming et wikis"
+  },
+  "https://botpress.com/blog/security-incident-disclosure-november-2026": {
+    "date": "2026-11-07",
+    "titre": "Botpress divulgue une intrusion : configurations de bots de 18 espaces clients exposées"
+  },
+  "https://officechai.com/ai/google-deepmind-says-it-has-used-ai-agents-to-break-legacy-rsa-1024-encryption-faster-than-anyone-thought-possible": {
+    "date": "2026-11-07",
+    "titre": "Google DeepMind : des agents IA trouvent deux faiblesses dans le RSA 1024 bits historique"
+  },
+  "https://support.claude.com/en/articles/12138966-release-notes": {
+    "date": "2026-11-07",
+    "titre": "Claude Enterprise : suivi des dépenses par code de coût via les tags de projet (bêta)"
+  },
   "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool": {
     "date": "2026-11-06",
     "titre": "Claude Personal Finance (bêta, États-Unis)"
@@ -6,6 +22,10 @@
   "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar": {
     "date": "2026-11-06",
     "titre": "Meta généralise Muse Voice : parler en vidéo à un agent IA via un avatar"
+  },
+  "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo": {
+    "date": "2026-11-07",
+    "titre": "Données Ramp : les dépenses IA des entreprises stagnent malgré la hausse des volumes de tokens"
   },
   "https://techstartups.com/2026/11/05/top-tech-news-roundup-for-today-november-5-2026-googles-17b-ai-data-center-nvidia-ziplines-1-5b-funding-and-nasdaqs-5-5-plunge": {
     "date": "2026-11-06",
@@ -18,5 +38,9 @@
   "https://tokenpost.com/news/technology/49766": {
     "date": "2026-11-06",
     "titre": "Node.js : correctifs de sécurité HIGH attendus le 11 novembre pour les lignes 22, 24 et 26"
+  },
+  "https://unite.ai/aws-adds-nvidia-gpu-partitioning-to-sagemaker-inference-endpoints": {
+    "date": "2026-11-07",
+    "titre": "AWS : SageMaker Inference prend en charge le partitionnement GPU NVIDIA MIG"
   }
 }

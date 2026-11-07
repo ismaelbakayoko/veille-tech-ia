@@ -1,0 +1,12 @@
+2026-11-07 06:55:23 | INFO    | veille.verify | Période de veille : 2026-11-06T06:55+00:00 -> 2026-11-07T06:55+00:00
+2026-11-07 06:55:23 | INFO    | veille.verify | Rejeté : Gemini Omni 1.2 Flash disponible : clips vidéo de 15 secondes, prix en baisse de — hors période (2026-11-05)
+2026-11-07 06:55:23 | INFO    | veille.verify | Rejeté : Check Point : la plateforme ARTEX automatise des campagnes de cybercriminalité p — hors période (2026-11-05)
+2026-11-07 06:55:23 | INFO    | veille.verify | Rejeté : Ant Group lance Ling-3.2-flash, modèle multimodal 560B (25B actifs), contexte 1M — hors période (2026-11-05)
+2026-11-07 06:55:23 | INFO    | veille.verify | Rejeté : Perplexity lance Teammates, des agents IA permanents pour le travail — page non ouverte / date non confirmée sur la source
+2026-11-07 06:55:23 | INFO    | veille.verify | Rejeté : Faille dans l'extension Claude pour Chrome : clics synthétiques — hors période (2026-07-16)
+2026-11-07 06:55:23 | INFO    | veille.verify | Rejeté : Next.js : version de sécurité de novembre — hors période (2026-10-27)
+2026-11-07 06:55:23 | WARNING | veille.verify | Source hors liste reconnue (à surveiller) : botpress.com
+2026-11-07 06:55:23 | WARNING | veille.verify | Source hors liste reconnue (à surveiller) : officechai.com
+2026-11-07 06:55:23 | WARNING | veille.verify | Source hors liste reconnue (à surveiller) : unite.ai
+2026-11-07 06:55:23 | INFO    | veille.verify | Vérification : 6 retenues, 6 rejetées
+2026-11-07 06:56:13 | INFO    | veille.report | Rapport écrit : rapport-2026-11-07.md (6 actus, historique 11, purgé 0)
