@@ -14,3 +14,4 @@
 2026-11-09 06:56:31 | WARNING | veille.report | Seulement 3 actualité(s) vérifiée(s) : journée calme
 2026-11-09 06:56:31 | WARNING | veille.report | rapport-2026-11-09.md existe déjà : remplacé par la nouvelle version
 2026-11-09 06:56:31 | INFO    | veille.report | Rapport écrit : rapport-2026-11-09.md (3 actus, historique 15, purgé 0)
+2026-11-09 06:56:34 | INFO    | veille.report | Version e-mail écrite : email.html
