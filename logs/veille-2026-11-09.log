@@ -1,0 +1,16 @@
+2026-11-09 06:55:49 | INFO    | veille.verify | Période de veille : 2026-11-08T06:55+00:00 -> 2026-11-09T06:55+00:00
+2026-11-09 06:55:49 | INFO    | veille.verify | Rejeté : Étude d'Andy Hall : les auditeurs IA détectent les dérives d'agents mais multipl — hors période (2026-11-07T16:56:00Z)
+2026-11-09 06:55:49 | INFO    | veille.verify | Rejeté : Anthropic prévient des clients qu'une société de sécurité a accédé à ses système — hors période (2026-11-07T16:32:00Z)
+2026-11-09 06:55:49 | INFO    | veille.verify | Rejeté : Microsoft met fin à la location de capacité IA chez Oracle — hors période (2026-11-06T18:57:00Z)
+2026-11-09 06:55:49 | INFO    | veille.verify | Rejeté : CrowdStrike lance un « AI Kill Switch » et rachète Fiddler AI — hors période (2026-11-03)
+2026-11-09 06:55:49 | INFO    | veille.verify | Rejeté : Next.js : version de sécurité de novembre (16.4.5 et 15.5.29) — hors période (2026-10-27)
+2026-11-09 06:55:49 | WARNING | veille.verify | Source hors liste reconnue (à surveiller) : cbsnews.com
+2026-11-09 06:55:49 | WARNING | veille.verify | Source hors liste reconnue (à surveiller) : thenextweb.com
+2026-11-09 06:55:49 | WARNING | veille.verify | Source hors liste reconnue (à surveiller) : runtimewire.com
+2026-11-09 06:55:49 | WARNING | veille.verify | Source hors liste reconnue (à surveiller) : shiftdelete.net
+2026-11-09 06:55:49 | INFO    | veille.verify | Vérification : 4 retenues, 5 rejetées
+2026-11-09 06:56:23 | WARNING | veille.report | Seulement 3 actualité(s) vérifiée(s) : journée calme
+2026-11-09 06:56:23 | INFO    | veille.report | Rapport écrit : rapport-2026-11-09.md (3 actus, historique 15, purgé 0)
+2026-11-09 06:56:31 | WARNING | veille.report | Seulement 3 actualité(s) vérifiée(s) : journée calme
+2026-11-09 06:56:31 | WARNING | veille.report | rapport-2026-11-09.md existe déjà : remplacé par la nouvelle version
+2026-11-09 06:56:31 | INFO    | veille.report | Rapport écrit : rapport-2026-11-09.md (3 actus, historique 15, purgé 0)

@@ -7,9 +7,17 @@
     "date": "2026-11-07",
     "titre": "Botpress divulgue une intrusion : configurations de bots de 18 espaces clients exposées"
   },
+  "https://cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence": {
+    "date": "2026-11-09",
+    "titre": "Nvidia : le conseil d'administration ouvre une enquête indépendante sur Jensen Huang"
+  },
   "https://officechai.com/ai/google-deepmind-says-it-has-used-ai-agents-to-break-legacy-rsa-1024-encryption-faster-than-anyone-thought-possible": {
     "date": "2026-11-07",
     "titre": "Google DeepMind : des agents IA trouvent deux faiblesses dans le RSA 1024 bits historique"
+  },
+  "https://runtimewire.com/article/amazon-builds-a-new-home-robot-team-around-fauna-s-sprout-humanoid": {
+    "date": "2026-11-09",
+    "titre": "Amazon monte une nouvelle équipe robot domestique autour du humanoïde Sprout"
   },
   "https://support.claude.com/en/articles/12138966-release-notes": {
     "date": "2026-11-07",
@@ -34,6 +42,10 @@
   "https://theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026": {
     "date": "2026-11-06",
     "titre": "METR : le rythme de progrès d'Anthropic aurait environ doublé"
+  },
+  "https://thenextweb.com/news/anthropic-3-4bn-gas-generators-onepwr-ft": {
+    "date": "2026-11-09",
+    "titre": "Anthropic aurait acheté 1,7 GW de générateurs à gaz pour 3,4 milliards de dollars (FT)"
   },
   "https://tokenpost.com/news/technology/49766": {
     "date": "2026-11-06",
