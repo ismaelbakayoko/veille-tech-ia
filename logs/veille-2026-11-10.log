@@ -1,0 +1,11 @@
+2026-11-10 06:53:53 | INFO    | veille.verify | Période de veille : 2026-11-09T06:53+00:00 -> 2026-11-10T06:53+00:00
+2026-11-10 06:53:53 | INFO    | veille.verify | Rejeté : Next.js annonce une release de sécurité pour le 3 novembre — hors période (2026-10-27)
+2026-11-10 06:53:53 | WARNING | veille.verify | Source hors liste reconnue (à surveiller) : thenextweb.com
+2026-11-10 06:53:53 | WARNING | veille.verify | Source hors liste reconnue (à surveiller) : runtimewire.com
+2026-11-10 06:53:53 | WARNING | veille.verify | Source hors liste reconnue (à surveiller) : prnewswire.com
+2026-11-10 06:53:53 | WARNING | veille.verify | Source hors liste reconnue (à surveiller) : 9to5mac.com
+2026-11-10 06:53:53 | INFO    | veille.verify | Vérification : 9 retenues, 1 rejetées
+2026-11-10 06:55:04 | INFO    | veille.report | Rapport écrit : rapport-2026-11-10.md (9 actus, historique 24, purgé 0)
+2026-11-10 06:55:13 | WARNING | veille.report | rapport-2026-11-10.md existe déjà : remplacé par la nouvelle version
+2026-11-10 06:55:13 | INFO    | veille.report | Rapport écrit : rapport-2026-11-10.md (9 actus, historique 24, purgé 0)
+2026-11-10 06:55:13 | INFO    | veille.report | Version e-mail écrite : email.html

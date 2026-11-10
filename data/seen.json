@@ -1,7 +1,19 @@
 {
+  "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features": {
+    "date": "2026-11-10",
+    "titre": "Apple vend ses premiers « Intelligence Usage Packs » (49,99 $) dans Logic Pro"
+  },
+  "https://anthropic.com/claude-fable-and-mythos-5-2": {
+    "date": "2026-11-10",
+    "titre": "Anthropic lance Claude Fable 5.2 et Claude Mythos 5.2, avec un mode rapide"
+  },
   "https://anthropic.com/research/components-of-agent-memory": {
     "date": "2026-11-07",
     "titre": "Anthropic publie « The components of agent memory » : notes, dreaming et wikis"
+  },
+  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx": {
+    "date": "2026-11-10",
+    "titre": "Google ajoute TPU 8tx et TPU 8i Max à sa 8e génération de TPU"
   },
   "https://botpress.com/blog/security-incident-disclosure-november-2026": {
     "date": "2026-11-07",
@@ -11,13 +23,29 @@
     "date": "2026-11-09",
     "titre": "Nvidia : le conseil d'administration ouvre une enquête indépendante sur Jensen Huang"
   },
+  "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot": {
+    "date": "2026-11-10",
+    "titre": "Claude Fable 5.2 arrive dans GitHub Copilot"
+  },
+  "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs": {
+    "date": "2026-11-10",
+    "titre": "GitHub : le secret scanning analyse désormais les logs de GitHub Actions"
+  },
   "https://officechai.com/ai/google-deepmind-says-it-has-used-ai-agents-to-break-legacy-rsa-1024-encryption-faster-than-anyone-thought-possible": {
     "date": "2026-11-07",
     "titre": "Google DeepMind : des agents IA trouvent deux faiblesses dans le RSA 1024 bits historique"
   },
+  "https://prnewswire.com/news-releases/automattic-launches-spacefast-a-new-company-that-gets-apps-and-websites-live-in-seconds-302933038.html": {
+    "date": "2026-11-10",
+    "titre": "Automattic lance Spacefast, un hébergement pour publier les apps créées par des agents de code"
+  },
   "https://runtimewire.com/article/amazon-builds-a-new-home-robot-team-around-fauna-s-sprout-humanoid": {
     "date": "2026-11-09",
     "titre": "Amazon monte une nouvelle équipe robot domestique autour du humanoïde Sprout"
+  },
+  "https://runtimewire.com/article/fireworks-ai-second-security-breach-customer-data": {
+    "date": "2026-11-10",
+    "titre": "Fireworks AI : une intrusion a exposé données de facturation, secrets et poids de modèles"
   },
   "https://support.claude.com/en/articles/12138966-release-notes": {
     "date": "2026-11-07",
@@ -35,6 +63,10 @@
     "date": "2026-11-07",
     "titre": "Données Ramp : les dépenses IA des entreprises stagnent malgré la hausse des volumes de tokens"
   },
+  "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution": {
+    "date": "2026-11-10",
+    "titre": "Meta lance Muse Ember, un petit modèle bon marché pour les agents"
+  },
   "https://techstartups.com/2026/11/05/top-tech-news-roundup-for-today-november-5-2026-googles-17b-ai-data-center-nvidia-ziplines-1-5b-funding-and-nasdaqs-5-5-plunge": {
     "date": "2026-11-06",
     "titre": "OpenAI dévoile GPT-6 Cyber, modèle de cybersécurité à accès restreint"
@@ -46,6 +78,10 @@
   "https://thenextweb.com/news/anthropic-3-4bn-gas-generators-onepwr-ft": {
     "date": "2026-11-09",
     "titre": "Anthropic aurait acheté 1,7 GW de générateurs à gaz pour 3,4 milliards de dollars (FT)"
+  },
+  "https://thenextweb.com/news/nvidia-gr00t-2-robots-human-video-corl": {
+    "date": "2026-11-10",
+    "titre": "NVIDIA dévoile GR00T 2, modèle ouvert pour robots, et Isaac Lab 3.0"
   },
   "https://tokenpost.com/news/technology/49766": {
     "date": "2026-11-06",
