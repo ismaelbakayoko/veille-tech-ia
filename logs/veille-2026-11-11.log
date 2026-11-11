@@ -1,0 +1,8 @@
+2026-11-11 07:00:30 | INFO    | veille.verify | Période de veille : 2026-11-10T07:00+00:00 -> 2026-11-11T07:00+00:00
+2026-11-11 07:00:30 | INFO    | veille.verify | Rejeté : Meta lance Muse Ember, petit modèle à 0,10 $ par million de tokens pour les sous — hors période (2026-11-09T18:08:00Z)
+2026-11-11 07:00:30 | INFO    | veille.verify | Rejeté : Next.js : version de sécurité de novembre (16.4.5 et 15.5.29) — hors période (2026-11-03)
+2026-11-11 07:00:30 | WARNING | veille.verify | Source hors liste reconnue (à surveiller) : tenable.com
+2026-11-11 07:00:30 | WARNING | veille.verify | Source hors liste reconnue (à surveiller) : news.microsoft.com
+2026-11-11 07:00:30 | WARNING | veille.verify | Source hors liste reconnue (à surveiller) : interestingengineering.com
+2026-11-11 07:00:30 | INFO    | veille.verify | Vérification : 9 retenues, 2 rejetées
+2026-11-11 07:02:19 | INFO    | veille.report | Rapport écrit : rapport-2026-11-11.md (9 actus, historique 33, purgé 0)

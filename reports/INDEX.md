@@ -1,5 +1,6 @@
 # Historique des rapports de veille
 
+- [mercredi 11 novembre 2026](rapport-2026-11-11.md)
 - [mardi 10 novembre 2026](rapport-2026-11-10.md)
 - [lundi 9 novembre 2026](rapport-2026-11-09.md)
 - [dimanche 8 novembre 2026](rapport-2026-11-08.md)

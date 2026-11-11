@@ -15,6 +15,10 @@
     "date": "2026-11-10",
     "titre": "Google ajoute TPU 8tx et TPU 8i Max à sa 8e génération de TPU"
   },
+  "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices": {
+    "date": "2026-11-11",
+    "titre": "Google étend Gemini Intelligence sur Android : widgets générés, automatisation de tâches et assistance appareil"
+  },
   "https://botpress.com/blog/security-incident-disclosure-november-2026": {
     "date": "2026-11-07",
     "titre": "Botpress divulgue une intrusion : configurations de bots de 18 espaces clients exposées"
@@ -23,6 +27,10 @@
     "date": "2026-11-09",
     "titre": "Nvidia : le conseil d'administration ouvre une enquête indépendante sur Jensen Huang"
   },
+  "https://claude.com/resources/articles/sheets-whiteboards-data": {
+    "date": "2026-11-11",
+    "titre": "Anthropic lance Claude Sheets et Claude Whiteboards (bêta) ; Claude Dashboards devient Claude Data (GA)"
+  },
   "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot": {
     "date": "2026-11-10",
     "titre": "Claude Fable 5.2 arrive dans GitHub Copilot"
@@ -30,6 +38,22 @@
   "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs": {
     "date": "2026-11-10",
     "titre": "GitHub : le secret scanning analyse désormais les logs de GitHub Actions"
+  },
+  "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories": {
+    "date": "2026-11-11",
+    "titre": "GitHub va suspendre les alertes Dependabot sur les dépôts inactifs depuis un an"
+  },
+  "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot": {
+    "date": "2026-11-11",
+    "titre": "Gemini 4 Carbon disponible dans GitHub Copilot"
+  },
+  "https://interestingengineering.com/ai-robotics/chatgpt-drops-two-voice-modes-december-2026": {
+    "date": "2026-11-11",
+    "titre": "ChatGPT retire les modes vocaux Advanced et Standard le 11 décembre au profit de GPT-Live"
+  },
+  "https://news.microsoft.com/source/2026/11/10/ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation": {
+    "date": "2026-11-11",
+    "titre": "IBM et Microsoft lancent Imagine Enterprise, une plateforme d'agents IA par secteur d'activité"
   },
   "https://officechai.com/ai/google-deepmind-says-it-has-used-ai-agents-to-break-legacy-rsa-1024-encryption-faster-than-anyone-thought-possible": {
     "date": "2026-11-07",
@@ -67,9 +91,21 @@
     "date": "2026-11-10",
     "titre": "Meta lance Muse Ember, un petit modèle bon marché pour les agents"
   },
+  "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks": {
+    "date": "2026-11-11",
+    "titre": "Anthropic lance Claude Meetings : Claude participe aux réunions Google Meet"
+  },
+  "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google": {
+    "date": "2026-11-11",
+    "titre": "OpenAI lance Business Hub : profils d'entreprise vérifiés et agents d'entreprise dans ChatGPT"
+  },
   "https://techstartups.com/2026/11/05/top-tech-news-roundup-for-today-november-5-2026-googles-17b-ai-data-center-nvidia-ziplines-1-5b-funding-and-nasdaqs-5-5-plunge": {
     "date": "2026-11-06",
     "titre": "OpenAI dévoile GPT-6 Cyber, modèle de cybersécurité à accès restreint"
+  },
+  "https://tenable.com/blog/microsoft-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194": {
+    "date": "2026-11-11",
+    "titre": "Patch Tuesday de novembre 2026 : 1 093 CVE corrigées, dont une zero-day Outlook exploitée et deux failles VS Code"
   },
   "https://theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026": {
     "date": "2026-11-06",
