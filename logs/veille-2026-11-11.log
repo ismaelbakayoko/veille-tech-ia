@@ -6,3 +6,7 @@
 2026-11-11 07:00:30 | WARNING | veille.verify | Source hors liste reconnue (à surveiller) : interestingengineering.com
 2026-11-11 07:00:30 | INFO    | veille.verify | Vérification : 9 retenues, 2 rejetées
 2026-11-11 07:02:19 | INFO    | veille.report | Rapport écrit : rapport-2026-11-11.md (9 actus, historique 33, purgé 0)
+2026-11-11 07:02:28 | INFO    | veille.report | Version e-mail écrite : email.html
+2026-11-11 07:02:40 | WARNING | veille.report | rapport-2026-11-11.md existe déjà : remplacé par la nouvelle version
+2026-11-11 07:02:40 | INFO    | veille.report | Rapport écrit : rapport-2026-11-11.md (9 actus, historique 33, purgé 0)
+2026-11-11 07:02:40 | INFO    | veille.report | Version e-mail écrite : email.html
