@@ -11,9 +11,17 @@
     "date": "2026-11-07",
     "titre": "Anthropic publie « The components of agent memory » : notes, dreaming et wikis"
   },
+  "https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator": {
+    "date": "2026-11-12",
+    "titre": "AWS lance AWS Emulator, un émulateur local officiel et open source des services AWS"
+  },
   "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx": {
     "date": "2026-11-10",
     "titre": "Google ajoute TPU 8tx et TPU 8i Max à sa 8e génération de TPU"
+  },
+  "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api": {
+    "date": "2026-11-12",
+    "titre": "Google lance la Gemini Decisions API et le modèle Gemini Decision 1"
   },
   "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices": {
     "date": "2026-11-11",
@@ -30,6 +38,14 @@
   "https://claude.com/resources/articles/sheets-whiteboards-data": {
     "date": "2026-11-11",
     "titre": "Anthropic lance Claude Sheets et Claude Whiteboards (bêta) ; Claude Dashboards devient Claude Data (GA)"
+  },
+  "https://docs.cloud.google.com/release-notes": {
+    "date": "2026-11-12",
+    "titre": "Google Cloud : Agent Gateway gouverne les agents IA hébergés sur EKS, AKS et OpenShift"
+  },
+  "https://fortune.com/2026/11/11/nvidia-oust-jensen-huang-spy-affairs": {
+    "date": "2026-11-12",
+    "titre": "Nvidia : le conseil d'administration préparerait l'éviction de Jensen Huang (WSJ)"
   },
   "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot": {
     "date": "2026-11-10",
@@ -55,6 +71,10 @@
     "date": "2026-11-11",
     "titre": "IBM et Microsoft lancent Imagine Enterprise, une plateforme d'agents IA par secteur d'activité"
   },
+  "https://nodejs.org/en/blog/vulnerability/november-2026-security-releases": {
+    "date": "2026-11-12",
+    "titre": "Node.js : correctifs de sécurité pour les lignes 22, 24 et 26 (16 CVE, dont 7 « high »)"
+  },
   "https://officechai.com/ai/google-deepmind-says-it-has-used-ai-agents-to-break-legacy-rsa-1024-encryption-faster-than-anyone-thought-possible": {
     "date": "2026-11-07",
     "titre": "Google DeepMind : des agents IA trouvent deux faiblesses dans le RSA 1024 bits historique"
@@ -70,6 +90,10 @@
   "https://runtimewire.com/article/fireworks-ai-second-security-breach-customer-data": {
     "date": "2026-11-10",
     "titre": "Fireworks AI : une intrusion a exposé données de facturation, secrets et poids de modèles"
+  },
+  "https://simonwillison.net/2026/Nov/11/llm": {
+    "date": "2026-11-12",
+    "titre": "llm 0.37.2 corrige une fuite possible de clé API OpenAI vers des fournisseurs tiers"
   },
   "https://support.claude.com/en/articles/12138966-release-notes": {
     "date": "2026-11-07",
@@ -130,5 +154,9 @@
   "https://vice.com/en/article/elvis-presley-estate-warns-the-next-elvis-wont-pick-up-a-guitar-in-new-lawsuit-against-ai-music-company-suno": {
     "date": "2026-11-08",
     "titre": "Les ayants droit d'Elvis Presley et l'éditeur d'Eminem attaquent Suno en justice"
+  },
+  "https://wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability": {
+    "date": "2026-11-12",
+    "titre": "Apache HTTP Server : faille critique d'exécution de code à distance dans mod_http2 (CVE-2026-119618)"
   }
 }

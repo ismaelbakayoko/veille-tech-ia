@@ -1,0 +1,14 @@
+2026-11-12 06:54:13 | INFO    | veille.verify | Période de veille : 2026-11-11T06:54+00:00 -> 2026-11-12T06:54+00:00
+2026-11-12 06:54:13 | INFO    | veille.verify | Rejeté : Alibaba ouvre Qwen4-Max-Preview via son Token Plan — hors période (2026-11-11T02:00:00Z)
+2026-11-12 06:54:13 | INFO    | veille.verify | Rejeté : Google rend Gemini 4 Carbon disponible pour les développeurs — hors période (2026-11-10T16:00:00Z)
+2026-11-12 06:54:13 | INFO    | veille.verify | Rejeté : Anthropic lance le roadshow de son introduction en bourse — hors période (2026-11-10)
+2026-11-12 06:54:13 | INFO    | veille.verify | Rejeté : Claude Sheets, Whiteboards, Claude Data et connecteurs interactifs — hors période (2026-11-10)
+2026-11-12 06:54:13 | INFO    | veille.verify | Rejeté : OpenShell rejoint la CNCF — page non ouverte / date non confirmée sur la source
+2026-11-12 06:54:13 | INFO    | veille.verify | Rejeté : GitHub Agentic Workflows en disponibilité générale — hors période (2026-10-28)
+2026-11-12 06:54:13 | WARNING | veille.verify | Source hors liste reconnue (à surveiller) : wiz.io
+2026-11-12 06:54:13 | WARNING | veille.verify | Source hors liste reconnue (à surveiller) : fortune.com
+2026-11-12 06:54:13 | WARNING | veille.verify | Source hors liste reconnue (à surveiller) : simonwillison.net
+2026-11-12 06:54:13 | INFO    | veille.verify | Vérification : 7 retenues, 6 rejetées
+2026-11-12 06:55:34 | INFO    | veille.report | Rapport écrit : rapport-2026-11-12.md (7 actus, historique 40, purgé 0)
+2026-11-12 06:55:55 | WARNING | veille.report | rapport-2026-11-12.md existe déjà : remplacé par la nouvelle version
+2026-11-12 06:55:55 | INFO    | veille.report | Rapport écrit : rapport-2026-11-12.md (7 actus, historique 40, purgé 0)
