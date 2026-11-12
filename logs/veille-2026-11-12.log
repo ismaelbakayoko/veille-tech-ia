@@ -12,3 +12,4 @@
 2026-11-12 06:55:34 | INFO    | veille.report | Rapport écrit : rapport-2026-11-12.md (7 actus, historique 40, purgé 0)
 2026-11-12 06:55:55 | WARNING | veille.report | rapport-2026-11-12.md existe déjà : remplacé par la nouvelle version
 2026-11-12 06:55:55 | INFO    | veille.report | Rapport écrit : rapport-2026-11-12.md (7 actus, historique 40, purgé 0)
+2026-11-12 06:56:09 | INFO    | veille.report | Version e-mail écrite : email.html
